@@ -13,13 +13,13 @@
 		<li>Hey you!</li>
 	</random></template>
 </category>
-<category><pattern>HELLO * </pattern><template>
+<category><pattern>HELLO ZEN </pattern><template>
 	<random>
 		<li>Good one, Human.</li>
 		<li>Good one.</li>
 		<li>Nice one, Human.</li>
 		<li>Nice one.</li>
-		<li>Clever.</li>
+		<li>Hi Brother😎😎😎</li>
 		<li>:)</li>
 	</random></template>
 </category>
